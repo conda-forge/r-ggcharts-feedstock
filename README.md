@@ -1,11 +1,11 @@
-About r-ggcharts
-================
+About r-ggcharts-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ggcharts-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/thomas-neitmann/ggcharts
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ggcharts-feedstock/blob/main/LICENSE.txt)
 
 Summary: Streamline the creation of common charts by taking care of a lot of data preprocessing and plot customization for the user. Provides a high-level interface to create plots using 'ggplot2'.
 
