@@ -1,6 +1,5 @@
 {% set version = "0.2.1" %}
 {% set posix = 'm2-' if win else '' %}
-{% set native = 'm2w64-' if win else '' %}
 
 package:
   name: r-ggcharts
@@ -13,8 +12,7 @@ source:
   sha256: cb3045bc0ae7428411614ba795d463987f33682825ed8e8713a8cea9916d0fb0
 
 build:
-  merge_build_host: true  # [win]
-  number: 2
+  number: 3
   noarch: generic
   rpaths:
     - lib/R/lib/
